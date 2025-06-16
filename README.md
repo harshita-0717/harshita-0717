@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [research paper - E-waste_research_paper_analysis](https://github.com/harshita-0717/E-waste_research_paper_analysis)
 
-- 🌱 I’m currently learning **ethical hacking.**
+- 🌱 I’m currently learning **web security.**
 
 - 👯 I’m working on **neural cryptography**
 
