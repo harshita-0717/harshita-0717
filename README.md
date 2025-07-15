@@ -9,7 +9,7 @@
 
 ### 🚧 What I'm Currently Working On
 
-- 🔍 [DNS Log Analysis using Splunk](https://github.com/harshita-0717/Splunk-Projects) *(guided project)*
+- 🔍 [DNS Log Analysis using Splunk](https://github.com/harshita-0717/Splunk_Projects) *(guided project)*
 - 🧪 Writing SPL queries to detect top IPs, domains, and anomalies
 - 📊 Creating dashboards to visualize patterns and indicators of compromise
 
